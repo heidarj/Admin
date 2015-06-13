@@ -1,0 +1,5 @@
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\bin\Release\admin.exe.config
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\bin\Release\admin.exe
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\bin\Release\admin.pdb
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\obj\Release\admin.exe
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\obj\Release\admin.pdb

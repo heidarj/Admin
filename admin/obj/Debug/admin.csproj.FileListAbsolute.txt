@@ -1,0 +1,12 @@
+c:\users\heiðar\documents\visual studio 2013\Projects\admin\admin\bin\Debug\admin.exe.config
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\bin\Debug\admin.exe
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\bin\Debug\admin.pdb
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\obj\Debug\admin.exe
+c:\Users\Heiðar\Documents\Visual Studio 2013\Projects\admin\admin\obj\Debug\admin.pdb
+C:\Git\Admin\admin\bin\Debug\admin.exe.config
+C:\Git\Admin\admin\obj\Debug\admin.exe
+C:\Git\Admin\admin\obj\Debug\admin.pdb
+C:\Git\Admin\admin\bin\Debug\admin.exe
+C:\Git\Admin\admin\bin\Debug\admin.pdb
+C:\Git\Admin\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
